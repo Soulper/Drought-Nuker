@@ -2,7 +2,7 @@
 
 A powerful and aesthetic Discord webhook management tool with a beautiful gradient UI.
 
-![Banner](https://i.imgur.com/your_banner_here.png)
+![Banner](https://i.imgur.com/tZzN8rV.png)
 
 ## ✨ Features
 
