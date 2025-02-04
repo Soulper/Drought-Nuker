@@ -16,7 +16,7 @@ A powerful and aesthetic Discord webhook management tool with a beautiful gradie
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/webhook-nuker.git
+git clone https://github.com/Soulper/Drought-Nuker.git
 ```
 
 2. **Install requirements**
@@ -31,7 +31,7 @@ python main.py
 
 ## 📋 Requirements
 
-- Python 3.6+
+- Python 3.9+
 - Rich library
 - Requests library
 
